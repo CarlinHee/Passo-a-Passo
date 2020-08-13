@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html>
-    <head>
+<head>
         <title>Livros</title>
         <meta charset="utf-8"/>
         <meta name="Ordem de livros lidos" content="um Texto qualquer resumindo tudo"/>
         <meta name="Keywords" content="Livros, Re Zero, Youkoso"/>
         <meta name="Auhtor" content="Carlos Henrique"/>
-    </head>
-
-    <body>
+</head>
+<body>
         <header>Light Novels</header> <!--Topo do site-->
         <nav>Menu de navegação</nav> <!--Barra de Navegação-->
         <section> <!--Seção-->
@@ -18,29 +17,17 @@
                 <p>Youkoso v7,5</p>
                 <p>Gakusen 7</p>
                 <p>Gakusen v8</p>
-
         </section>
 
         <article> <!--Artigos-->
                 <h1>Qualquer artigo</h1>
                 <p>contéudo desse artigo</p>
-
         </article>
         <aside>
-                Barra Lateral
+        Barra Lateral
         </aside>
         <footer>
-                Roda Pé do site
+         Roda Pé do site
         </footer>
-
-
-
-    </body>
-
-
-
-
-
-
-
+</body>
 </html>
